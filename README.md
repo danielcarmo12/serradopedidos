@@ -1,1 +1,2 @@
 # serradopedidos
+PROTÓTIPO DE APP DE CONTROLE DE PEDIDOS
